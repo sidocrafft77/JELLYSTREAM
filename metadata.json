@@ -1,0 +1,6 @@
+{
+  "name": "JellyStream",
+  "description": "A modern, sleek media player for Jellyfin servers featuring smooth video and audio playback, rich library browsing, and instant server connection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
